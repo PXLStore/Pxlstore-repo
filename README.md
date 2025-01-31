@@ -1,4 +1,5 @@
 ## Hi there 👋
+Pxlstore官方cydia软件源
 
 <!--
 **PXLStore/PXLSTORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
